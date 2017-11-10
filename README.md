@@ -1,1 +1,1 @@
-# myStudentBio.github.io
+# myBio.github.io
